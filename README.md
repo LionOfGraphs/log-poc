@@ -19,7 +19,7 @@ Lion of Graphs is a data engine focused on data processing and visualization.
   <li><a href="#license">License</a></li>
 </ol>
 
-🚧 under construction 🚧
+🚧 *under construction* 🚧
 
 ## About
 
